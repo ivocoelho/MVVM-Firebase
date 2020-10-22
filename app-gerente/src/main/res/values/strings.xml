@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gerente</string>
+    <string name="title_data">data</string>
+    <string name="nenhuma_motorista_encontrado">Nenhum motorista encontrado</string>
+    <string name="erro_ao_listar_motoristas">Erro ao listar motoristas</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="idade">Idade</string>
+    <string name="avatar">avatar</string>
+    <string name="c_digo_de_ativa_o">Código de Ativação</string>
+    <string name="nome_do_motorista">Motorista:</string>
+    <string name="salvar">Salvar</string>
+    <string name="erro_ao_salvar_motoristas">Erro ao salvar motorista</string>
+</resources>

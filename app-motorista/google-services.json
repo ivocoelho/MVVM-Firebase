@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "143250832583",
+    "firebase_url": "https://findmytaxi-d1f27.firebaseio.com",
+    "project_id": "findmytaxi-d1f27",
+    "storage_bucket": "findmytaxi-d1f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143250832583:android:bc3d83bb2331663b0192e2",
+        "android_client_info": {
+          "package_name": "com.ivocoelho.nomeapp.cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143250832583-bctc98ub5qvmpl9m60198geets141ebv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLS5X6z5hx98K74Z2M9BFiXh-zxBXff60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143250832583-bctc98ub5qvmpl9m60198geets141ebv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143250832583:android:2f2d70d108de52ad0192e2",
+        "android_client_info": {
+          "package_name": "com.ivocoelho.nomeapp.gerente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143250832583-bctc98ub5qvmpl9m60198geets141ebv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLS5X6z5hx98K74Z2M9BFiXh-zxBXff60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143250832583-bctc98ub5qvmpl9m60198geets141ebv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143250832583:android:643edb67f149e7ef0192e2",
+        "android_client_info": {
+          "package_name": "com.ivocoelho.nomeapp.motorista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143250832583-bctc98ub5qvmpl9m60198geets141ebv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLS5X6z5hx98K74Z2M9BFiXh-zxBXff60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143250832583-bctc98ub5qvmpl9m60198geets141ebv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

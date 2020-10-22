@@ -1,0 +1,2 @@
+include ':app-gerente', ':data', ':domain', ':app-cliente', ':app-motorista'
+rootProject.name='Gerente'
